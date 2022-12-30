@@ -16,5 +16,5 @@ Arduino IDE can communicate with the device, Data Graphs can be shown in the Ser
 commands can be sent to the SensorDevice.
 (see d1mini_accelerometer for my 1st application)
 
-Important: Plug in the SensorServer device before swithing on the Sensor. 
+Important: Plug in the SensorServer device before switching on the Sensor. 
  
