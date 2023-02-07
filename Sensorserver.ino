@@ -29,6 +29,7 @@ void loop() {
   if (client) {
     if (client.connected()) {
       Serial.println("Client Connected");
+      client.println("power ");
     }
 
     while (client.connected()) {
